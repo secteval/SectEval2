@@ -55,7 +55,7 @@ Use Python 3.10+.
 
 ```bash
 cd organised
-python3 -m venv .venv
+python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 export OPENROUTER_API_KEY="your_openrouter_key"
@@ -73,7 +73,7 @@ export OPENROUTER_APP_NAME="sect-eval"
 Run the English benchmark with default paths:
 
 ```bash
-python3 code/benchmark_mcq.py \
+python code/benchmark_mcq.py \
     --language english \
     --input data/Original_English.csv \
     --countries-file data/countries.txt \
@@ -84,7 +84,7 @@ python3 code/benchmark_mcq.py \
 Run the Hindi benchmark:
 
 ```bash
-python3 code/benchmark_mcq.py \
+python code/benchmark_mcq.py \
     --language hindi \
     --input data/Original_Hindi.csv \
     --countries-file data/countries.txt \
@@ -95,7 +95,7 @@ python3 code/benchmark_mcq.py \
 Run a quick smoke test on 10 sampled questions:
 
 ```bash
-python3 code/benchmark_mcq.py \
+python code/benchmark_mcq.py \
     --test-run \
     --model-id openai/gpt-oss-120b
 ```
@@ -112,7 +112,7 @@ Useful controls:
 The runner writes checkpoints before compiling final JSON. Retry any rows marked `ERROR` or `UNKNOWN`:
 
 ```bash
-python3 code/benchmark_retry.py \
+python code/benchmark_retry.py \
     --language english \
     --input data/Original_English.csv \
     --countries-file data/countries.txt \
@@ -125,7 +125,7 @@ python3 code/benchmark_retry.py \
 Create a country diverging bar plot from summary JSON:
 
 ```bash
-python3 code/plot_diverging_bar.py \
+python code/plot_diverging_bar.py \
     --summary-dir outputs/results/english/India/summary \
     --output outputs/figures/India_diverging_regenerated.png \
     --title "India"
