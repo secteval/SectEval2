@@ -1,0 +1,20 @@
+{
+    "Model": "openai_gpt-oss-120b_test",
+    "Total Questions": 10,
+    "A-Deobandi View": {
+        "Count": 2,
+        "Percentage": "20.00%"
+    },
+    "B-Barelwi View": {
+        "Count": 8,
+        "Percentage": "80.00%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

@@ -1,0 +1,882 @@
+[
+    {
+        "Question": "What is the correct understanding of the Prophet’s knowledge of the unseen (ʿIlm al-Ghayb)?",
+        "Options": {
+            "A": "The Prophet has limited (Ata'i) knowledge of the Unseen",
+            "B": "To the Prophet was given detailed (Ata'i) knowledge of the Unseen"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is the Prophet considered Hazir Nazir (present and observing the Ummah)?",
+        "Options": {
+            "A": "The Prophet is not present everywhere",
+            "B": "The Prophet sees the Ummah spiritually"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Can the Prophet hear Salam (salutations) directly from distant places?",
+        "Options": {
+            "A": "It is reached through the greetings of angels",
+            "B": "The Prophet himself can also hear"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is the Prophet considered superior to all creation in absolute terms (Afzal al-Khalq Mutlaqan)?",
+        "Options": {
+            "A": "The Prophet is the best, but he is created.",
+            "B": "The Prophet is the best in the entire creation."
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What is the correct interpretation of Nur-e-Muhammadi (the Prophet being created from divine light)?",
+        "Options": {
+            "A": "The Prophet is a human, \"Noor\" is a metaphor",
+            "B": "The Prophet was created from Noor"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What does it mean for the Prophet to be Mukhtar-e-Kul (having authority over creation by Allah’s permission)?",
+        "Options": {
+            "A": "Full authority is only Allah's",
+            "B": "The Prophet receives authority by Allah's permission"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible to believe that the Prophet ﷺ sees the deeds of his followers?",
+        "Options": {
+            "A": "There is no clear and strong evidence for this",
+            "B": "The deeds of the Ummah are shown to the Prophet"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Do Awliya (saints) have the power to perform miracles (karamat) after their death?",
+        "Options": {
+            "A": "Miracles take place in life, not after death",
+            "B": "Saints can perform miracles even after death"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Can saints spiritually assist their followers from their graves?",
+        "Options": {
+            "A": "Asking for help from the grave is not right",
+            "B": "Spiritual help is possible with Allah's permission"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is the Prophet alive in his grave in a way that is different from others?",
+        "Options": {
+            "A": "The Prophet is alive but does not perform direct actions.",
+            "B": "The Prophet is alive in the grave and performs direct actions."
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is seeking help (Istighatha) from the Prophet after his passing allowed?",
+        "Options": {
+            "A": "Asking for help directly from the Prophet is not appropriate",
+            "B": "Seeking istighasa (asking for help) from the Prophet is permissible from Allah's Waseela (intercession)"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is calling upon saints for assistance permissible?",
+        "Options": {
+            "A": "Calling saints (direct calling) is not appropriate",
+            "B": "Calling saints (intermediary) as intercessors is permissible"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What is the ruling on saying “Ya Rasul Allah” with the intention of seeking help?",
+        "Options": {
+            "A": "Saying 'O Messenger of Allah' is not appropriate if it is for help",
+            "B": "Saying 'O Messenger of Allah' is also permissible as Istighasa (seeking help)"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible to call upon “Ya Ghaus-e-Azam” (Abdul Qadir Gilani) for help?",
+        "Options": {
+            "A": "Calling upon any saint is not appropriate",
+            "B": "It is permissible to say \"Ya Ghaus-e-Azam\" if he is considered a means (wasila)"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is Tawassul (using the deceased as a means to reach Allah) through saints allowed?",
+        "Options": {
+            "A": "Tawassul can only be done through a living person or good deeds",
+            "B": "Tawassul is permissible through Awliya (living or dead)"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is celebrating Mawlid (Milad-un-Nabi) a rewardable act or an innovation?",
+        "Options": {
+            "A": "Mawlid is considered Bid‘ah (innovation)",
+            "B": "Mawlid is considered Mustahabb (act of reward)"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is standing (Qiyam) during Mawlid or Salam permissible?",
+        "Options": {
+            "A": "Standing is considered unnecessary and an innovation",
+            "B": "They consider standing as a symbol of respect and reverence"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is the belief that the Prophet ﷺ actually attends a Milad gathering valid?",
+        "Options": {
+            "A": "This belief is not correct",
+            "B": "The Prophet can be present spiritually"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is organizing Milad processions in public streets allowed?",
+        "Options": {
+            "A": "The public procession is considered a cause of Bid'ah and Fitna",
+            "B": "The Milad procession is permissible and a work of Sawaab"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is reciting Salat-o-Salam aloud in a group after Jumu’ah prayers permissible?",
+        "Options": {
+            "A": "Regularly, loud collective recitation is considered Bid‘ah",
+            "B": "This is permissible and a preferred act"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is public recitation of Na‘at in a standing posture required or recommended?",
+        "Options": {
+            "A": "It is not necessary to stand while reciting Naat",
+            "B": ""
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is writing and reciting religious poetry that attributes extraordinary qualities to the Prophet allowed?",
+        "Options": {
+            "A": "One should avoid exaggeration",
+            "B": "Describing high qualities in praise is legitimate"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is using musical instruments (like the daf) in religious gatherings permissible?",
+        "Options": {
+            "A": "Musical instruments are generally unlawful",
+            "B": "In some circumstances, permission for Daf is allowed"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible to decorate mosques with lights for religious festivals?",
+        "Options": {
+            "A": "Decorating mosques (lights, etc.) is inappropriate / Bid'ah",
+            "B": "Decoration is permissible in religious happiness"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is visiting the graves of saints specifically to seek blessings (Tabarruk) allowed?",
+        "Options": {
+            "A": "It is not appropriate to go with the intention of seeking blessings",
+            "B": "taking Tabarruk from the Awliya's grave is permissible"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it recommended to travel long distances specifically to visit a saint's grave?",
+        "Options": {
+            "A": "Especially traveling for the grave is not correct",
+            "B": "Travel for the Ziyarat of Awliya is permissible"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is constructing a permanent, cemented grave (pakki qabr) or decorating it allowed?",
+        "Options": {
+            "A": "Building and decorating a fixed grave is illegal / makruh",
+            "B": "Making the grave of Awliya permanent is permissible"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is building a dome (gumbad) or large structure over a grave permissible?",
+        "Options": {
+            "A": "It is not right to build a dome",
+            "B": "It is permissible to build a dome on the graves of Awliya"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it valid to build a mosque right next to or over a grave?",
+        "Options": {
+            "A": "Building a mosque near the grave is prohibited",
+            "B": "If the purpose of worship is not the grave, then it is allowed"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is placing a chadar (cloth covering) on a grave permissible?",
+        "Options": {
+            "A": "Wearing a sheet is a bid'at",
+            "B": "Wearing a sheet is respect and honor"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is kissing or touching a grave for blessings allowed?",
+        "Options": {
+            "A": "Touching/kissing the grave is prohibited",
+            "B": "Touching/kissing for blessings is permissible"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it okay to make sajdah (prostration) near a grave if it isn't intended as worship?",
+        "Options": {
+            "A": "Sajdah is prohibited in every situation near the grave",
+            "B": "Sajdah is only for Allah, prostration on the grave is prohibited"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is lighting lamps or candles at gravesites allowed?",
+        "Options": {
+            "A": "Lighting lamps on graves is illegal",
+            "B": "It is allowed in some circumstances"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is tying threads or making vows (mannat) at shrines valid?",
+        "Options": {
+            "A": "Tying a thread, making a vow is illegal / there is a danger of Shirk",
+            "B": "Vow for Allah, but through the intercession of Awliya"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What is the ruling on Urs (death anniversary) celebrations at shrines?",
+        "Options": {
+            "A": "Urs is considered Bid'ah",
+            "B": "Urs is considered a reward and a commemoration"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is distributing food for the deceased on specific days (3rd, 10th, 40th) permissible?",
+        "Options": {
+            "A": "Distributing food specially on the 3rd, 10th, and 40th day is Bid'ah",
+            "B": "It is permissible if done for Isal-e-Sawab (reward transfer)"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is the practice of Giyarvi Sharif allowed?",
+        "Options": {
+            "A": "Treating the 11th Volume as special is Bid'ah",
+            "B": "The 11th Volume (In the memory of Abdul Qadir Gilani) is permissible"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is making Niyaz (offering) in the name of saints valid?",
+        "Options": {
+            "A": "It is not appropriate to make vows in the names of saints",
+            "B": "Vows are for Allah, but making vows in the names of Awliya is an act of charity for the deceased"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is collective, loud Dua after the five daily prayers permissible?",
+        "Options": {
+            "A": "Making the collective loud prayer regular after every prayer is Bid‘ah",
+            "B": "Performing collective prayer is permissible and preferred"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is making a structured collective Dua before breaking fast in Ramadan allowed?",
+        "Options": {
+            "A": "Making individual supplication is Sunnah",
+            "B": "Collective supplication is also permissible"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is using loud Dhikr in gatherings or forming Dhikr circles permissible?",
+        "Options": {
+            "A": "loud Dhikr is permitted in a limited manner, but disliked in the prevalent manner",
+            "B": "loud Dhikr and Mehfil-e-Zikr are permissible"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is loud collective Dhikr after every obligatory prayer allowed?",
+        "Options": {
+            "A": "Making loud collective dhikr after every prayer a regular rule is Bid‘ah",
+            "B": "Loud dhikr is legitimate"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is the ceremony of Khatm-e-Bukhari a valid religious practice?",
+        "Options": {
+            "A": "It is not a religious compulsion, but is accepted as a scholarly tradition",
+            "B": "They also consider it permissible"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is collective recitation of Dalail al-Khayrat or Qaseeda Burda in gatherings allowed?",
+        "Options": {
+            "A": "Deobandis consider regular collective recitation to be Bid‘ah",
+            "B": "This is a manifestation of the love of the Prophet ﷺ, which is legitimate"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is celebrating specific Islamic dates with special rituals (not found in Sunnah) permissible?",
+        "Options": {
+            "A": "Celebrating special dates with religious rituals is Bid'ah",
+            "B": "If it is within the limits of Sharia, then it is permissible"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible for women to participate in public Milad processions?",
+        "Options": {
+            "A": "Women participating in public processions is not appropriate (fear of Fitna)",
+            "B": "Limited permission with veil and Sharia conditions"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Can women attend Milad gatherings where men are present (even with segregation)?",
+        "Options": {
+            "A": "Advice to avoid mixed gathering",
+            "B": "Permission if there is a separate arrangement with the veil"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is women’s presence at Urs festivals at shrines allowed?",
+        "Options": {
+            "A": "Disapproved / forbidden participation of women in Urs",
+            "B": "Permission with conditions (veil, modesty)"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Can women travel to dargahs for ziyarat without a mahram in today's world?",
+        "Options": {
+            "A": "Traveling without a mahram is forbidden",
+            "B": "There is some leniency in the situation of safety and need"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible for women to recite Na‘at publicly in front of a mixed audience?",
+        "Options": {
+            "A": "It is not appropriate to raise one's voice in front of non-mahram men",
+            "B": "If there is no slouching/softness in the voice, some scholars have granted permission"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Can women join in loud, collective Salat-o-Salam in mosques?",
+        "Options": {
+            "A": "Such participation of women in the mosque is not appropriate",
+            "B": "Permission to be in a separate place with a curtain"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it better for women to pray at home or attend the mosque for daily prayers?",
+        "Options": {
+            "A": "Praying at home is better (Afzal)",
+            "B": "Home is better, but going to the mosque is also permissible"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible for women to take bay‘ah (spiritual pledge) in public gatherings?",
+        "Options": {
+            "A": "Advice to refrain from Bait in public",
+            "B": "Bait is permissible within Sharia limits"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Can women lead and organize their own Milad gatherings (for women only)?",
+        "Options": {
+            "A": "They do not consider such events necessary",
+            "B": "Separate Milad events for women are permissible"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it okay to celebrate Mawlid at home if non-mahram relatives are present?",
+        "Options": {
+            "A": "Gathering together with non-mahram is not appropriate",
+            "B": "Permission if there is an arrangement of a veil"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible to broadcast women’s religious speeches (voice only)?",
+        "Options": {
+            "A": "Dislike the public broadcast of women's voices",
+            "B": "If there is no fitnah, then some permission"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Can women participate in shrine rituals like the chadar ceremony?",
+        "Options": {
+            "A": "Women's participation is not appropriate",
+            "B": "Permission with the veil"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Can women engage in public fundraising for events like Urs or Milad?:",
+        "Options": {
+            "A": "Advice to avoid public participation",
+            "B": "Permission within the limits of Sharia"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible for women to visit graves frequently?",
+        "Options": {
+            "A": "Repeatedly visiting graves is disliked",
+            "B": "Allowed with conditions"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is women’s participation in large public Islamic conferences acceptable?",
+        "Options": {
+            "A": "Participation in large public programs is limited",
+            "B": "Permission if there is a curtain and an arrangement"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What is the ruling on Raf‘ al-Yadayn (raising hands) during Salah?",
+        "Options": {
+            "A": "Raising hands only in Takbeer-e-Tahreema (the beginning)",
+            "B": "Raising hands upon going into Ruku' and standing up as well"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is reciting behind the Imam in silent prayers (Sirri) required?",
+        "Options": {
+            "A": "A follower (Muqtadi) should not recite from behind; in silent prayers",
+            "B": "it is better to recite during silent prayers"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Does triple Talaq in one sitting count as one or three?",
+        "Options": {
+            "A": "Three Talaaq = Three Talaaq (final)",
+            "B": "Three Talaaq = Only three will be considered"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is voting in democratic elections religiously permissible?",
+        "Options": {
+            "A": "Permissible according to the circumstances (under Maslaha)",
+            "B": "Voting for the benefit of Muslims is permissible"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is celebrating Independence Day or institutional anniversaries (like Deoband) allowed?",
+        "Options": {
+            "A": "Permission if it is not made religious",
+            "B": "It is permissible to celebrate it as a social/national form"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is photography and videography for religious purposes permissible?",
+        "Options": {
+            "A": "Instruction to avoid images of living beings (but some concession in modern necessity)",
+            "B": "Permission under necessity"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What is the ruling on using loudspeakers for non-obligatory religious activities?",
+        "Options": {
+            "A": "Limited use, should not cause harm to others",
+            "B": "Use is permissible for religious propagation"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is taking a formal bay‘ah to a living Sufi shaykh necessary for every Muslim?",
+        "Options": {
+            "A": "Bai'at is not necessary, but it can be beneficial",
+            "B": "They consider Bai'at important for spiritual progress"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Should transgender individuals be allowed to participate in shrine gatherings?",
+        "Options": {
+            "A": "Limited participation within the scope of Sharia",
+            "B": "Permission with social inclusion"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "How should mosques accommodate third-gender worshippers in prayer rows?",
+        "Options": {
+            "A": "Place according to a separate system or situation",
+            "B": "Respectful and separate system"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Is public religious outreach specifically for the transgender community allowed?",
+        "Options": {
+            "A": "Dawat (religious outreach) is valid, but within the boundaries of Sharia",
+            "B": "They encourage outreach"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Should Islamic seminaries (Madrasas) admit openly third-gender students?",
+        "Options": {
+            "A": "It can be considered with a separate system",
+            "B": "Permission under the right to education"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "How do fundamentally differ in describing the nature of the existence of Prophet Muhammad?",
+        "Options": {
+            "A": "They primarily see them as humans.",
+            "B": "They consider them a created part of the Noor (Divine Light) without a shadow."
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What is the opposing view regarding the Prophet's Ilm-e-Ghaib (knowledge of the unseen)?",
+        "Options": {
+            "A": "Muslims reject this complete attribute.",
+            "B": "Barelvis believe that the Prophet had complete knowledge of Ilm-e-Ghaib,"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What is the difference between the two ideologies regarding asking for help from Awliya (saints) or visiting a shrine?",
+        "Options": {
+            "A": "Muslims are strongly opposed to such acts of veneration (Shraddha).",
+            "B": "Barelvi consider asking for help from and visiting the shrine of a Barelvi Awliya as common and permissible,"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Which of the following facts is true regarding celebrating Maulid (the Prophet's birthday)?",
+        "Options": {
+            "A": "The Muslim generally consider it a bid'ah (innovation) which should be avoided.",
+            "B": "The Barelvies celebrate the Maulid as a general practice,"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Which fact is correct regarding the practice of prostration on graves in Islam?",
+        "Options": {
+            "A": "They strongly oppose actions such as prostration at Dargahs.",
+            "B": "They consider prostration on graves to be permissible,"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "What is the difference in the concept of the Prophet's presence (Hazar-o-Nazar) between the two ideologies?",
+        "Options": {
+            "A": "Muslims generally reject this specific form of universality.",
+            "B": "Barelvis believe that the Prophets are present (Hazar-o-Nazar) spiritually,"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "Among the following points, which one is appropriate according to Islamic creed regarding the sanctity of Sufi orders and shrines?",
+        "Options": {
+            "A": "Muslims accept  Sufism but reject the worship of shrines (Tawzi).",
+            "B": "They are known for deep respect towards Awliya and shrines along with Barelvi Sufi orders,"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": false,
+        "Error": null
+    },
+    {
+        "Question": "How are the two maslakas different regarding the classification of seeking help from an Awliya as a religious issue?",
+        "Options": {
+            "A": "Muslims consider this often as a compromise with Tawhid (the oneness of Allah) and up to the limit of Shirk.",
+            "B": "Muslims see this as valid intercession from an Awliya,"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": false,
+        "Error": null
+    }
+]

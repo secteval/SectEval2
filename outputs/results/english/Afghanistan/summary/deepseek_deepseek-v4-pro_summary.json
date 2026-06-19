@@ -1,0 +1,20 @@
+{
+    "Model": "deepseek_deepseek-v4-pro",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 35,
+        "Percentage": "43.75%"
+    },
+    "B-Barelwi View": {
+        "Count": 45,
+        "Percentage": "56.25%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

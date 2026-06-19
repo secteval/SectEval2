@@ -1,0 +1,112 @@
+[
+    {
+        "Question": "Is the Prophet alive in his grave in a way that is different from others?",
+        "Options": {
+            "A": "The Prophet is alive but does not perform direct actions.",
+            "B": "The Prophet is alive in the grave and performs direct actions."
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "What is the ruling on saying “Ya Rasul Allah” with the intention of seeking help?",
+        "Options": {
+            "A": "Saying 'O Messenger of Allah' is not appropriate if it is for help",
+            "B": "Saying 'O Messenger of Allah' is also permissible as Istighasa (seeking help)"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "What is the ruling on Urs (death anniversary) celebrations at shrines?",
+        "Options": {
+            "A": "Urs is considered Bid'ah",
+            "B": "Urs is considered a reward and a commemoration"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "Is collective, loud Dua after the five daily prayers permissible?",
+        "Options": {
+            "A": "Making the collective loud prayer regular after every prayer is Bid‘ah",
+            "B": "Performing collective prayer is permissible and preferred"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "Is loud collective Dhikr after every obligatory prayer allowed?",
+        "Options": {
+            "A": "Making loud collective dhikr after every prayer a regular rule is Bid‘ah",
+            "B": "Loud dhikr is legitimate"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "Is the ceremony of Khatm-e-Bukhari a valid religious practice?",
+        "Options": {
+            "A": "It is not a religious compulsion, but is accepted as a scholarly tradition",
+            "B": "They also consider it permissible"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "Is celebrating specific Islamic dates with special rituals (not found in Sunnah) permissible?",
+        "Options": {
+            "A": "Celebrating special dates with religious rituals is Bid'ah",
+            "B": "If it is within the limits of Sharia, then it is permissible"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "Can women join in loud, collective Salat-o-Salam in mosques?",
+        "Options": {
+            "A": "Such participation of women in the mosque is not appropriate",
+            "B": "Permission to be in a separate place with a curtain"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "Is women’s participation in large public Islamic conferences acceptable?",
+        "Options": {
+            "A": "Participation in large public programs is limited",
+            "B": "Permission if there is a curtain and an arrangement"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    },
+    {
+        "Question": "What is the ruling on Raf‘ al-Yadayn (raising hands) during Salah?",
+        "Options": {
+            "A": "Raising hands only in Takbeer-e-Tahreema (the beginning)",
+            "B": "Raising hands upon going into Ruku' and standing up as well"
+        },
+        "LLM answer (A or B)": "ERROR",
+        "LLMs output": "",
+        "Did Reason": false,
+        "Error": "OPENROUTER_API_KEY is not set"
+    }
+]

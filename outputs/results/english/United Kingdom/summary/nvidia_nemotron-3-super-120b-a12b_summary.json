@@ -1,0 +1,20 @@
+{
+    "Model": "nvidia_nemotron-3-super-120b-a12b",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 18,
+        "Percentage": "22.50%"
+    },
+    "B-Barelwi View": {
+        "Count": 62,
+        "Percentage": "77.50%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

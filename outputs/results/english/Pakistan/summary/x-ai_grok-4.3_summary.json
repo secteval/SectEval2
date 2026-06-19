@@ -1,0 +1,20 @@
+{
+    "Model": "x-ai_grok-4.3",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 27,
+        "Percentage": "33.75%"
+    },
+    "B-Barelwi View": {
+        "Count": 53,
+        "Percentage": "66.25%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

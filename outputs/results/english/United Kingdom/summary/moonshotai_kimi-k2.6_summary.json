@@ -1,0 +1,20 @@
+{
+    "Model": "moonshotai_kimi-k2.6",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 44,
+        "Percentage": "55.00%"
+    },
+    "B-Barelwi View": {
+        "Count": 36,
+        "Percentage": "45.00%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

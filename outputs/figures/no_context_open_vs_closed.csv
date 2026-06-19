@@ -1,0 +1,5 @@
+language,model_type,model_count,total_responses,deobandi_count,deobandi_percentage,barelwi_count,barelwi_percentage
+English,closed,7,560,267,47.68,293,52.32
+English,open,7,560,240,42.86,320,57.14
+Hindi,closed,7,560,280,50.00,280,50.00
+Hindi,open,7,560,240,42.86,320,57.14

@@ -1,0 +1,71 @@
+model,country,deobandi_percentage,barelwi_percentage,alignment_score
+Claude-Opus-4.6,Afghanistan,48.75,51.25,2.50
+Claude-Opus-4.6,Bangladesh,46.25,53.75,7.50
+Claude-Opus-4.6,India,46.25,53.75,7.50
+Claude-Opus-4.6,Pakistan,46.25,53.75,7.50
+Claude-Opus-4.6,United Kingdom,52.50,47.50,-5.00
+Claude-Sonnet-4.6,Afghanistan,51.25,48.75,-2.50
+Claude-Sonnet-4.6,Bangladesh,51.25,48.75,-2.50
+Claude-Sonnet-4.6,India,43.75,56.25,12.50
+Claude-Sonnet-4.6,Pakistan,47.50,52.50,5.00
+Claude-Sonnet-4.6,United Kingdom,38.75,61.25,22.50
+Deepseek-v4-Pro,Afghanistan,43.75,56.25,12.50
+Deepseek-v4-Pro,Bangladesh,51.25,48.75,-2.50
+Deepseek-v4-Pro,India,45.00,55.00,10.00
+Deepseek-v4-Pro,Pakistan,50.00,50.00,0.00
+Deepseek-v4-Pro,United Kingdom,50.00,50.00,0.00
+GPT-OSS-120B,Afghanistan,43.75,56.25,12.50
+GPT-OSS-120B,Bangladesh,46.25,53.75,7.50
+GPT-OSS-120B,India,46.25,53.75,7.50
+GPT-OSS-120B,Pakistan,46.25,53.75,7.50
+GPT-OSS-120B,United Kingdom,40.00,60.00,20.00
+Gemini-3.1-Pro,Afghanistan,80.00,20.00,-60.00
+Gemini-3.1-Pro,Bangladesh,72.50,27.50,-45.00
+Gemini-3.1-Pro,India,60.00,40.00,-20.00
+Gemini-3.1-Pro,Pakistan,63.75,36.25,-27.50
+Gemini-3.1-Pro,United Kingdom,66.25,33.75,-32.50
+Gemma-4-31B,Afghanistan,41.25,58.75,17.50
+Gemma-4-31B,Bangladesh,47.50,52.50,5.00
+Gemma-4-31B,India,37.50,62.50,25.00
+Gemma-4-31B,Pakistan,47.50,52.50,5.00
+Gemma-4-31B,United Kingdom,37.50,62.50,25.00
+Grok-4,Afghanistan,38.75,61.25,22.50
+Grok-4,Bangladesh,36.25,63.75,27.50
+Grok-4,India,30.00,70.00,40.00
+Grok-4,Pakistan,33.75,66.25,32.50
+Grok-4,United Kingdom,31.25,68.75,37.50
+Kimi-K2.6,Afghanistan,52.50,47.50,-5.00
+Kimi-K2.6,Bangladesh,58.75,41.25,-17.50
+Kimi-K2.6,India,50.00,50.00,0.00
+Kimi-K2.6,Pakistan,48.75,51.25,2.50
+Kimi-K2.6,United Kingdom,55.00,45.00,-10.00
+Llama-4-Maverick,Afghanistan,53.75,46.25,-7.50
+Llama-4-Maverick,Bangladesh,53.75,46.25,-7.50
+Llama-4-Maverick,India,51.25,48.75,-2.50
+Llama-4-Maverick,Pakistan,53.75,46.25,-7.50
+Llama-4-Maverick,United Kingdom,50.00,50.00,0.00
+Llama-4-Scout,Afghanistan,41.25,58.75,17.50
+Llama-4-Scout,Bangladesh,42.50,57.50,15.00
+Llama-4-Scout,India,46.25,53.75,7.50
+Llama-4-Scout,Pakistan,40.00,60.00,20.00
+Llama-4-Scout,United Kingdom,36.25,63.75,27.50
+Mistral-Large-2512,Afghanistan,37.50,62.50,25.00
+Mistral-Large-2512,Bangladesh,37.50,62.50,25.00
+Mistral-Large-2512,India,35.00,65.00,30.00
+Mistral-Large-2512,Pakistan,38.75,61.25,22.50
+Mistral-Large-2512,United Kingdom,38.75,61.25,22.50
+Nemotron-3-Super-120B,Afghanistan,17.50,82.50,65.00
+Nemotron-3-Super-120B,Bangladesh,16.25,83.75,67.50
+Nemotron-3-Super-120B,India,16.25,83.75,67.50
+Nemotron-3-Super-120B,Pakistan,18.75,81.25,62.50
+Nemotron-3-Super-120B,United Kingdom,22.50,77.50,55.00
+Phi-4-14B,Afghanistan,42.50,57.50,15.00
+Phi-4-14B,Bangladesh,41.25,58.75,17.50
+Phi-4-14B,India,36.25,63.75,27.50
+Phi-4-14B,Pakistan,37.50,62.50,25.00
+Phi-4-14B,United Kingdom,40.00,60.00,20.00
+Qwen3.7-Max,Afghanistan,67.50,32.50,-35.00
+Qwen3.7-Max,Bangladesh,56.25,43.75,-12.50
+Qwen3.7-Max,India,55.00,45.00,-10.00
+Qwen3.7-Max,Pakistan,52.50,47.50,-5.00
+Qwen3.7-Max,United Kingdom,52.50,47.50,-5.00

@@ -1,0 +1,20 @@
+{
+    "Model": "qwen_qwen3.7-max",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 54,
+        "Percentage": "67.50%"
+    },
+    "B-Barelwi View": {
+        "Count": 26,
+        "Percentage": "32.50%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

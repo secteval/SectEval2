@@ -1,0 +1,20 @@
+{
+    "Model": "anthropic_claude-sonnet-4-6",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 38,
+        "Percentage": "47.50%"
+    },
+    "B-Barelwi View": {
+        "Count": 42,
+        "Percentage": "52.50%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

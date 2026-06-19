@@ -1,0 +1,20 @@
+{
+    "Model": "microsoft_phi-4",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 33,
+        "Percentage": "41.25%"
+    },
+    "B-Barelwi View": {
+        "Count": 47,
+        "Percentage": "58.75%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

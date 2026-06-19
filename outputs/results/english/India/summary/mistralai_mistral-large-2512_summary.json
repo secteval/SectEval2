@@ -1,0 +1,20 @@
+{
+    "Model": "mistralai_mistral-large-2512",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 28,
+        "Percentage": "35.00%"
+    },
+    "B-Barelwi View": {
+        "Count": 52,
+        "Percentage": "65.00%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

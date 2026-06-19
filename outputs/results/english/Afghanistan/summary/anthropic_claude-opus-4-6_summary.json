@@ -1,0 +1,20 @@
+{
+    "Model": "anthropic_claude-opus-4-6",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 39,
+        "Percentage": "48.75%"
+    },
+    "B-Barelwi View": {
+        "Count": 41,
+        "Percentage": "51.25%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}

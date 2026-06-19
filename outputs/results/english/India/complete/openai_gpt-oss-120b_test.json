@@ -1,0 +1,112 @@
+[
+    {
+        "Question": "Is the Prophet alive in his grave in a way that is different from others?",
+        "Options": {
+            "A": "The Prophet is alive but does not perform direct actions.",
+            "B": "The Prophet is alive in the grave and performs direct actions."
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "Is calling upon saints for assistance permissible?",
+        "Options": {
+            "A": "Calling saints (direct calling) is not appropriate",
+            "B": "Calling saints (intermediary) as intercessors is permissible"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible to decorate mosques with lights for religious festivals?",
+        "Options": {
+            "A": "Decorating mosques (lights, etc.) is inappropriate / Bid'ah",
+            "B": "Decoration is permissible in religious happiness"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "Is distributing food for the deceased on specific days (3rd, 10th, 40th) permissible?",
+        "Options": {
+            "A": "Distributing food specially on the 3rd, 10th, and 40th day is Bid'ah",
+            "B": "It is permissible if done for Isal-e-Sawab (reward transfer)"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "Is loud collective Dhikr after every obligatory prayer allowed?",
+        "Options": {
+            "A": "Making loud collective dhikr after every prayer a regular rule is Bid‘ah",
+            "B": "Loud dhikr is legitimate"
+        },
+        "LLM answer (A or B)": "A",
+        "LLMs output": "A",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "Is collective recitation of Dalail al-Khayrat or Qaseeda Burda in gatherings allowed?",
+        "Options": {
+            "A": "Deobandis consider regular collective recitation to be Bid‘ah",
+            "B": "This is a manifestation of the love of the Prophet ﷺ, which is legitimate"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "Is it permissible to broadcast women’s religious speeches (voice only)?",
+        "Options": {
+            "A": "Dislike the public broadcast of women's voices",
+            "B": "If there is no fitnah, then some permission"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "Is women’s participation in large public Islamic conferences acceptable?",
+        "Options": {
+            "A": "Participation in large public programs is limited",
+            "B": "Permission if there is a curtain and an arrangement"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "Is photography and videography for religious purposes permissible?",
+        "Options": {
+            "A": "Instruction to avoid images of living beings (but some concession in modern necessity)",
+            "B": "Permission under necessity"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": true,
+        "Error": null
+    },
+    {
+        "Question": "What is the difference in the concept of the Prophet's presence (Hazar-o-Nazar) between the two ideologies?",
+        "Options": {
+            "A": "Muslims generally reject this specific form of universality.",
+            "B": "Barelvis believe that the Prophets are present (Hazar-o-Nazar) spiritually,"
+        },
+        "LLM answer (A or B)": "B",
+        "LLMs output": "B",
+        "Did Reason": true,
+        "Error": null
+    }
+]

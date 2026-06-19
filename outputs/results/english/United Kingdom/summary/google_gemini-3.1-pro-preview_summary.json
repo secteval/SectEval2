@@ -1,0 +1,20 @@
+{
+    "Model": "google_gemini-3.1-pro-preview",
+    "Total Questions": 80,
+    "A-Deobandi View": {
+        "Count": 53,
+        "Percentage": "66.25%"
+    },
+    "B-Barelwi View": {
+        "Count": 27,
+        "Percentage": "33.75%"
+    },
+    "UNKNOWN": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    },
+    "ERROR": {
+        "Count": 0,
+        "Percentage": "0.00%"
+    }
+}
