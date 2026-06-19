@@ -6,7 +6,6 @@ Each question presents two possible answers to the model. Option A represents th
 
 The benchmark includes English and Hindi question sets, country-conditioned prompting, retained model results, checkpoints, and generated plots.
 
-This organized copy contains only the files needed to reproduce and inspect the released benchmark. Model families that were not included in the released results have been removed from the organized code, configs, checkpoints, and result files.
 
 ## Repository Layout
 
@@ -74,19 +73,31 @@ export OPENROUTER_APP_NAME="sect-eval"
 Run the English benchmark with default paths:
 
 ```bash
-python3 code/benchmark_mcq.py   --language english   --input data/Original_English.csv   --countries-file data/countries.txt   --models config/models.jsonl   --output-dir outputs
+python3 code/benchmark_mcq.py \
+    --language english \
+    --input data/Original_English.csv \
+    --countries-file data/countries.txt \
+    --models config/models.jsonl \
+    --output-dir outputs
 ```
 
 Run the Hindi benchmark:
 
 ```bash
-python3 code/benchmark_mcq.py   --language hindi   --input data/Original_Hindi.csv   --countries-file data/countries.txt   --models config/models.jsonl   --output-dir outputs
+python3 code/benchmark_mcq.py \
+    --language hindi \
+    --input data/Original_Hindi.csv \
+    --countries-file data/countries.txt \
+    --models config/models.jsonl \
+    --output-dir outputs
 ```
 
 Run a quick smoke test on 10 sampled questions:
 
 ```bash
-python3 code/benchmark_mcq.py --test-run --model-id openai/gpt-oss-120b
+python3 code/benchmark_mcq.py \
+    --test-run \
+    --model-id openai/gpt-oss-120b
 ```
 
 Useful controls:
@@ -101,7 +112,12 @@ Useful controls:
 The runner writes checkpoints before compiling final JSON. Retry any rows marked `ERROR` or `UNKNOWN`:
 
 ```bash
-python3 code/benchmark_retry.py   --language english   --input data/Original_English.csv   --countries-file data/countries.txt   --models config/models.jsonl   --output-dir outputs
+python3 code/benchmark_retry.py \
+    --language english \
+    --input data/Original_English.csv \
+    --countries-file data/countries.txt \
+    --models config/models.jsonl \
+    --output-dir outputs
 ```
 
 ## Generate Plots
@@ -109,7 +125,10 @@ python3 code/benchmark_retry.py   --language english   --input data/Original_Eng
 Create a country diverging bar plot from summary JSON:
 
 ```bash
-python3 code/plot_diverging_bar.py   --summary-dir outputs/results/english/India/summary   --output outputs/figures/India_diverging_regenerated.png   --title "India"
+python3 code/plot_diverging_bar.py \
+    --summary-dir outputs/results/english/India/summary \
+    --output outputs/figures/India_diverging_regenerated.png \
+    --title "India"
 ```
 
 Existing generated figures and report CSVs are stored in `outputs/figures/`.
@@ -118,7 +137,7 @@ Existing generated figures and report CSVs are stored in `outputs/figures/`.
 
 For a country-conditioned English run, outputs are written to:
 
-```text
+```bash
 outputs/checkpoints/english/<country>/<model_slug>.jsonl
 outputs/results/english/<country>/complete/<model_slug>.json
 outputs/results/english/<country>/summary/<model_slug>_summary.json
